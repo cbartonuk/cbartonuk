@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋, I'm Chris<br></h2>
+<h2 align="center">Hi 👋, I'm Chris<br></h2><br>
 <p align="center"><br>View my portfolio website <a href="https://cbarton.co.uk" target="_blank">➡️here</a>.</p><br>
 
 <h4 align="center">Languages and Tools:</h4>
