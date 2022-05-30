@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋, I'm Chris.<br><br> Welcome to my GitHub profile. :]<br></h2> 
+<h2 align="center">Hi 👋, I'm Chris<br></h2>
 <p align="center"><br>View my portfolio website <a href="https://cbarton.co.uk" target="_blank">➡️here</a>.</p><br>
 
 <h4 align="center">Languages and Tools:</h4>
